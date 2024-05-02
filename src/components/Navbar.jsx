@@ -8,10 +8,10 @@ const Navbar = () => {
         <div className="container">
             <div className="container logo col-2">
                 <a className="navbar-brand" href="/">
-                <img src={logo} alt="Bootstrap" width="90" height="45"/>
+                <img src={logo} alt="Logo" width="90" height="45"/>
             </a>
             </div>
-            <div className="container title p-1 text-center col-9">
+            <div className="container title p-1 text-end col-9">
                 <p className='h3 pe-12'>aDMe - A Business Co-pilot</p>
             </div>
   </div>
